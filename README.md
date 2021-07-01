@@ -1,0 +1,5 @@
+- 👋 Hello je suis @VibR1cY
+- 👀 J'ai 17 ans
+- 🌱 J'apprends à dev en C#
+- 💞️ Sinon j'ai des très bonne base en LUA
+- 📫 DM moi pour une question VibR1cY#2076
