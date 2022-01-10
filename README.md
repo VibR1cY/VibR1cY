@@ -1,4 +1,1 @@
-- 👋 Hello je suis @VibR1cY
-- 👀 J'ai 18 ans
-- 💞️ Sinon j'ai des très bonne base en LUA
-- 📫 DM moi pour une question VibR1cY#2076
+- 👋 Hello, welcome to my profile
